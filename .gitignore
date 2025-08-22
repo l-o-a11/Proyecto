@@ -1,5 +1,6 @@
+# Ignorar dependencias
 node_modules/
 
-.DS_Store
+# Ignorar archivos específicos
 api_frutas.js
 package-lock.json
